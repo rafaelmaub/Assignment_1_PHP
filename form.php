@@ -24,8 +24,8 @@
 <label for="input2">Assignment Name:</label>
 <input type="text" name="assignment"id="input2">
 <br>
-<label for="input3">Student First Name:</label>
-<input type="text" name="student" id="input3">
+<label for="input3">Student First Name/Student Number:</label>
+<input type="text"  name="student" id="input3">
 <br>
 <input type="submit" value="Submit">
 </form>
